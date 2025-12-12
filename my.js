@@ -34,6 +34,7 @@ $(document).ready(function(){
         $("#card-color").append(html);
     }
 
+    
     $(".calk").change(function(){
         tirSize=$("#card-quantity").val()/30;
         // alert(tirSize);
